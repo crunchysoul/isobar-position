@@ -1,13 +1,25 @@
 # What I can bring to Isobar Australia:
 
-## Brief about me:
+## Table of Contents
 
+* [Brief about me](#brief-about-me)
+* [More about my tech journey](#more-about-my-tech-journey)
+  * [Dev Bootcamp](#dev-bootcamp)
+  * [Web and Startup](#web-and-startup)
+  * [Hackathons](#hackathons)
+  * [ANU Mathematics and Computer Science](#anu-mathematics-and-computer-science)
+  * [Computer Science Students
+    Association](#computer-science-students-association)
+  * [Financial Engineering China](#financial-engineering-china)
+  * [Technology Hobbyist](#technology-hobbyist)
+* [Summary](#summary)
+
+## Brief about me:
 - I’m a person who constantly explore the limits of what’s possible out of intellectual curiosity.
 - I’m Also intuitive, imaginative, open-minded and brave to explore new territory and not afraid to be unique.
 - All this personal traits are really fit into Isobar’s culture and core, I can feel myself not only fit into, but also able to provide value to company.
 
 ## More about my tech journey:
-
 - I only been in Isobar Australia for 4 weeks, which admittedly is short but really fulfilling period for me, I’m really exciting learning from and sharing with others, I have delivered the task that assigned during the internship with many helps from other team mate, I appreciate dearly to everyone’s help.
 - I’m genuinely crazy about technologies, Although the position is graduate junior level, I have been working on software related tasks in commercial, academic and hobby level.
 
@@ -22,7 +34,7 @@
 ### Hackathons:
 - When I learning and creating, I also actively attend Hackathons, the last two I went in 2017 is Hack the World, Melbourne, and Future Workplaces, Melbourne. My team created a web service for micro brewer to share receipts and score sponsorship, and a system that monitor employee movement during disastrous events, unfortunately we did not win, but the experiences are very memorable.
 
-### ANU, Mathematics and Computer Science: 
+### ANU Mathematics and Computer Science: 
 - But my technology and development involvement did not started six months ago, before that, I was doing my degree of Mathematics and Computer Science in Australian National University, Canberra. Where I learned not only the foundation of computer programming and varieties of algorithms, and also rigorous mathematical thinking and critical reasoning, they gave me a very solid ground for my future professional development. One instance I’m really product of is, in one of university AI agent tournament(create a AI agency to play Kalaha against others, an African two player chess game) I ranked top 4% among all three hundreds players.
 
 ### Computer Science Students Association:
@@ -35,7 +47,7 @@
 - Besides those academic and commercial experiences, I also a technologies hobbyist, in my I love to doing IOT, and assembly related projects,
 - For example, I created a two way communication protocol using assembly language on ARM micro-controller, when two ARM micro-controllers connected through GPIO pins, one will serve as server, another will be client, client can using joystick on micro controller send specific command messages and server will feedback with different musics store on it, so it’s basically a midi Spotify service for ARM micro controller.
 
-### Summary:
+## Summary:
 All above are technology and software dev related experiences and achievements, but I can be more exciting when think about all the possibilities here in Isobar, I humbly understand that I’m at the very beginning of my professional dev careers, and I’m really eager to learn and progress, and contribute to Isobar.
 
 __Here is the takeaways from this rather long rant of myself:__
